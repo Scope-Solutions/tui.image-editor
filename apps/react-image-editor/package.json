@@ -1,6 +1,6 @@
 {
   "name": "@scopesolutions/react-image-editor",
-  "version": "4.0.0",
+  "version": "4.0.1",
   "description": "TOAST UI Image-Editor for React that supports React 18",
   "main": "dist/toastui-react-image-editor.js",
   "files": [
